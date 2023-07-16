@@ -1,5 +1,7 @@
 ### 💫 About Me:
-Hello world 👋 <br>My Name is Mahendhiran 👽<br>I’m currently learning spring boot framework 🍃 <br>
+Hello world 👋 <br>
+My Name is Mahendhiran 👽<br>
+I’m currently learning spring boot framework 🍃 <br>
 
 ### 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendhiranm/) 
